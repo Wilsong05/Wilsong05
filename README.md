@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilson</h1>
 <h3 align="center">A passionate Programmer from India</h3>
-<img alt="coding" align="right" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47es9n6nm4j8z0x3bxmod0hyr59n2coqgt6gnkdywq&rid=giphy.gif&ct=g">
+<img alt="coding" align="right" width="380" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47es9n6nm4j8z0x3bxmod0hyr59n2coqgt6gnkdywq&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsong05&label=Profile%20views&color=0e75b6&style=flat" alt="wilsong05" /> </p>
 
 - 🌱 I’m currently learning **JAVA,Web Development**
